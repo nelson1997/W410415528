@@ -17,7 +17,7 @@ namespace MyWeb.Models
     }
     public class Book
     {
-        
+        public String ID { get; set; }
         public String Name { get; set; }
         public String ISBN { get; set; }
 
