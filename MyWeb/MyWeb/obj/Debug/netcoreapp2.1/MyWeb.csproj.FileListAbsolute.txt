@@ -31,3 +31,8 @@ C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.dll
 C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.pdb
 C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csproj.CopyComplete
 C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\mypage.g.cshtml.cs
+C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.g.cshtml.cs
+C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
+C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
+C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+C:\Users\user\Desktop\W410415528\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
